@@ -34,7 +34,7 @@ time.sleep(2)
 # passo 3: abrir a base de dados
 import pandas
 
-tabela = pandas.read_csv(r'C:\Users\Markim\Documents\projetos-py\automacoes-de-tarefaas\produtos.csv')
+tabela = pandas.read_csv(r'C:\Users\Markim\Documents\automação-de-tarefas\produtos.csv')
 print(tabela)
 
 # passo 4: cadastrar todos os produto
